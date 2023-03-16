@@ -1,0 +1,10 @@
+[
+  {
+    "package": "kinematics",
+    "oncran": true
+  },
+  {
+    "package": "waydown",
+    "oncran": true
+  }
+]
